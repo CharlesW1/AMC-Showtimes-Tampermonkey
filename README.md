@@ -5,6 +5,13 @@ This script relies on the tampermonkey extension (https://www.tampermonkey.net/)
 
 ## DISCLAIMER: AMC SHOWTIMES ARE SUBJECT TO CHANGE WITHOUT NOTICE, THIS SCRIPT IS FOR COMPILING CURRENTLY AVAILABLE DATA FROM AMC'S WEBSITE
 
+## Installation
+
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension.
+2. Enable **Allow User Scripts** permission in the extension's management panel.
+3. Click here to install the script: [Install AMC Showtimes Alert](https://raw.githubusercontent.com/CharlesW1/AMC-Showtimes-Tampermonkey/main/amc-showtimes.user.js)
+4. Tampermonkey will prompt you to install. Once installed, it will automatically sync with this repository to keep the script up to date.
+
 ## Showcase
 When navigating to the appropriate page like:
 
